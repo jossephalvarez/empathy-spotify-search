@@ -3,6 +3,8 @@
 ## Project setup
 ```
 npm install
+
+* Enter the clientId and clientSecret on -> api/auth/index.js
 ```
 
 ### Compiles and hot-reloads for development
